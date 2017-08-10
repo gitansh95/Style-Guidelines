@@ -4,7 +4,7 @@ Coding Standards
 When contributing code to any QuazarTech repo, you must follow its coding standards. 
 
 All our Python code enforces a variant of `PEP-8`_, with the docstrings following
-`PEP-257`_(WIP - Document the differences). A quick-reference is provided below
+`PEP-257`_ (WIP - Document the differences). A quick-reference is provided below
 
 Quick-Reference
 ---------------
