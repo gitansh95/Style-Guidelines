@@ -1,5 +1,8 @@
 # **Issue Template**
 
+## Bug
+Use this template when reporting a bug.
+
 #### Short description of the bug
 
 #### Environment
@@ -31,3 +34,14 @@
 - If you have a way to fix the bug, give a description on how it could be done.
     It would be even better if you give us a pull request if you have already
     implemented the code.
+
+
+## Feature request
+Use this template when requesting a new feature.
+
+#### Short description of the new feature
+
+#### Why do you think that this feature should be implemented?
+
+#### Possible implementation
+- Give a detailed description of how the feature can be implemented.
