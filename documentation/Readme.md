@@ -1,5 +1,5 @@
 # Project Title
-- Cool logo.
+- Cool logo
 
 ---
 
@@ -51,3 +51,5 @@ This sections builds up over time.
 - Names of people associated with the project split into two lists :
   - Active (Alphabetical Order)
   - Past (Alphabetical Order)
+  
+  Format the names as follows `Full Name (email@domain.com)`.
